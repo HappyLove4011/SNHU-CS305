@@ -1,4 +1,4 @@
-**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**
+**Briefly summarize your client, Artemis Financial, and its software requirements. Who was the client? What issue did the company want you to address?**<br>
 Artemis Financial is a financial consulting firm that creates personalized financial plans for clients. They wanted to modernize their web application's security by implementing secure communication protocols and adding data verification checks, while ensuring no new vulnerabilities were introduced.
 
 **What did you do well when you found your client’s software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall well-being?**
